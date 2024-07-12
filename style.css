@@ -239,3 +239,11 @@ margin:0% 3%;
     flex-basis: 0;
     align-self: flex-end;
 }
+
+
+/* about us */
+.social-media{
+  text-decoration: none;
+  color: black;
+  transition: 0.5s;
+}
