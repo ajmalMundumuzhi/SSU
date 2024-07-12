@@ -248,8 +248,12 @@ margin:0% 3%;
   transition: 0.5s;
 }
 .about-main-box{
-  height: 500px;
+  height: 600px;
 }
 .about-sub-box{
   height: 420px;
+}
+.members-round{
+  height: 200px;
+  border-radius: 50%; 
 }
