@@ -258,3 +258,10 @@ margin:0% 3%;
 }
 
 /* awards */
+.award-image{
+  opacity: 90%;
+}
+.award-image:hover{
+  opacity: 150%;
+  padding: 0;
+}
